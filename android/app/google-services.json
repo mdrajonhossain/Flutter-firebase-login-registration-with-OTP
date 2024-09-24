@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377840729979",
+    "project_id": "firetwo55-d4f0e",
+    "storage_bucket": "firetwo55-d4f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377840729979:android:79ac9f64becc4d3a3087de",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFDF2aqRjOpkjxffFkF9waueqzAuYmlCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377840729979:android:aa25f443e1c579943087de",
+        "android_client_info": {
+          "package_name": "com.example.untitled_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFDF2aqRjOpkjxffFkF9waueqzAuYmlCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
